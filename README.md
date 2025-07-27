@@ -23,7 +23,7 @@ Follow the steps below to set up and run the project:
 2. **Navigate to the Project Directory**
 
 ```bash
-cd phishing-flask
+cd fesing-flask
 python -m venv phishenv
 .\phishenv\Scripts\activate
 pip install -r requirements.txt
