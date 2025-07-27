@@ -19,19 +19,8 @@ Follow the steps below to set up and run the project:
 1. **Use Python 3.9.0**  
    Make sure you have Python 3.9.0 installed on your system.  
    👉 [Download Python 3.9.0](https://www.python.org/downloads/release/python-390/)
-   
-3. 📌 **This project applies various machine learning classification techniques, including:**
 
-- **Logistic Regression**
-- **K-Nearest Neighbors (KNN)**
-- **Classification Trees**
-- **Random Forest**
-- **Support Vector Machine (SVM)**
-- **LightGBM**
-- **XGBoost Classifier**
-
-
-3. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory**
 
 ```bash
 cd phishing-flask
@@ -39,7 +28,7 @@ python -m venv phishenv
 .\phishenv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-```  <-- this ends the bash block
+```
 
 📌 **This project applies various machine learning classification techniques, including:**
 
