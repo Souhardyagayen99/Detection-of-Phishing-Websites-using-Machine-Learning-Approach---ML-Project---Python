@@ -40,4 +40,9 @@ python app.py
 - **LightGBM**
 - **XGBoost Classifier**
 
+## Always store your requirements.txt with exact versions:
+- pip freeze > requirements.txt
+- pip freeze > requirements1.txt
+
+
 
