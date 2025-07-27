@@ -29,6 +29,13 @@ python -m venv phishenv
 pip install -r requirements.txt
 python app.py
 ```
+- OR
+- you can do this in Main directory, with out creating any virtual env
+```bash
+cd fesing-flask
+pip install -r requirements.txt
+python app.py
+```
 
 📌 **This project applies various machine learning classification techniques, including:**
 
@@ -42,7 +49,6 @@ python app.py
 
 ## Always store your requirements.txt with exact versions:
 - pip freeze > requirements.txt
-- pip freeze > requirements1.txt
 
 
 
