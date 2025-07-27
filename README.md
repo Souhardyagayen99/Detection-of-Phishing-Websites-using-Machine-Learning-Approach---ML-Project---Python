@@ -3,6 +3,6 @@
 ## For Run use Python 3.9.0 (download)
 ## cd fesing-flask (change directory)
 ## python -m venv phishenv (create virtual environment)
-## .\phishenv\Scripts\activate (activate )
+## .\phishenv\Scripts\activate (activate venv)
 ## pip install -r requirements.txt (install required library)
 ## python app.py (run file)
